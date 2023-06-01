@@ -1,4 +1,4 @@
-# CS724A-Sensing-Communications-Networking-for-Smart-Wireless-Devices.
+# CS724A-Sensing-Communications-Networking-for-Smart-Wireless-Devices
 This GitHub repository contains the solutions for the three assignments completed during the Autumn 2022 semester for the CS724A-Sensing, Communications &amp; Networking for Smart Wireless Devices course.
 ## Assignments
 
